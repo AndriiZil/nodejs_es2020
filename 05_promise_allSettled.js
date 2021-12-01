@@ -16,7 +16,7 @@ Promise.allSettled(myPromiseArray)
  *   {
  *     status: 'fulfilled',
  *     value: Error: Error
- *         at Object.<anonymous> (/home/andrii/Documents/github/es2020/05_promise_all_settled.js:4:21)
+ *         at Object.<anonymous> (/home/andrii/Documents/github/es2020/05_promise_allSettled.js:4:21)
  *         at Module._compile (node:internal/modules/cjs/loader:1101:14)
  *         at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
  *         at Module.load (node:internal/modules/cjs/loader:981:32)
